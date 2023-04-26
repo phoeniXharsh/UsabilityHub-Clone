@@ -34,7 +34,9 @@ This project was built with the following technologies:
 ## Screenshots
 Here are some Screenshots of the cloned webist
 
-![App Screenshot]()
-
-
-
+![](Screenshots/1.png)
+![](Screenshots/2.png)
+![](Screenshots/3.png)
+![](Screenshots/4.png)
+![](Screenshots/5.png)
+![](Screenshots/6.png)
